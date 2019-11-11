@@ -2,8 +2,7 @@
 
 int main()
 {
-    printf("Test");
-    printf("Test Folder");
-    printf("Test Folder");
+    printf("last");
+    
     return 0;
 }
